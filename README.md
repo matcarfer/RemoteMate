@@ -2,13 +2,13 @@
 
 <h1 align="center">RemoteMate</h1>
 
-<h2 align="center"><a href="https://github.com/matcarfer/RemoteMate/releases/download/v2.1.1/RemoteMate-2.1.1.apk">⬇ Descargar APK</a></h2>
+<h2 align="center"><a href="https://github.com/matcarfer/RemoteMate/releases/download/v2.1.2/RemoteMate-2.1.2.apk">⬇ Descargar APK</a></h2>
 
 <p align="center">
   <b>Español</b> · <a href="README.en.md">English</a><br><br>
 Usá el celular como control, mouse y teclado de tu caja de TV.<br>
 Por tu Wi-Fi, cifrado, sin publicidad ni nube.<br>
-<b>Compatible con Android 4.4 a 15.</b>
+<b>Compatible con Android 4.4 a 16.</b>
 </p>
 
 <p align="center">
@@ -27,4 +27,4 @@ La caja necesita **una** de estas: root, Accesibilidad o ADB por red.
 
 ---
 
-<sub>Gratis, de código cerrado. No redistribuir: compartí este link. Sin garantía. <a href="LICENSE">Licencia</a> · <a href="PRIVACY.es.md">Privacidad</a> · <a href="https://www.virustotal.com/gui/file/4b1ad1621e755000c62f9c5eff465c120500139b47d130032630b0d70a3e19bd">VirusTotal</a></sub>
+<sub>Gratis, de código cerrado. No redistribuir: compartí este link. Sin garantía. <a href="LICENSE">Licencia</a> · <a href="PRIVACY.es.md">Privacidad</a> · <a href="https://www.virustotal.com/gui/file/518e3edb1ae13f877e4e63ada0f456d0166f057ee8c1250376b60e9cb88fe2aa">VirusTotal</a></sub>
