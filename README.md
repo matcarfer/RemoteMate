@@ -6,7 +6,8 @@
 
 <p align="center">
   <b>Español</b> · <a href="README.en.md">English</a><br><br>
-Usá el celular como control, mouse y teclado de tu caja de TV.<br>
+Usá el celular para controlar, sin control remoto, Chromecast con Google TV,<br>
+Smart TVs con Android TV o Google TV y convertidores Smart Android.<br>
 Por tu Wi-Fi, cifrado, sin publicidad ni nube.<br>
 <b>Compatible con Android 4.4 a 16.</b>
 </p>
@@ -17,8 +18,8 @@ Por tu Wi-Fi, cifrado, sin publicidad ni nube.<br>
   <img src="docs/3-teclado.png" width="30%" alt="RemoteMate">
 </p>
 
-**Cómo se usa:** instalá la misma app en la caja y en el celular, abrila en los dos, tocá la caja y poné el código.<br>
-La caja necesita **una** de estas: root, Accesibilidad o ADB por red.
+**Cómo se usa:** instalá la misma app en la tele o el convertidor y en el celular, abrila en los dos, tocá la tele o el convertidor y poné el código.<br>
+La tele o el convertidor necesita **una** de estas: root, Accesibilidad o ADB por red.
 
 <p align="center">
   <a href="https://cafecito.app/matcarfer">☕ Cafecito</a> · <a href="https://ko-fi.com/matcarfer">☕ Ko-fi</a> · <a href="https://www.patreon.com/matcarfer">❤ Patreon</a><br>
