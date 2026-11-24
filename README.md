@@ -22,7 +22,7 @@ La caja necesita **una** de estas: root, Accesibilidad o ADB por red.
 
 <p align="center">
   <a href="https://cafecito.app/matcarfer">☕ Cafecito</a> · <a href="https://ko-fi.com/matcarfer">☕ Ko-fi</a> · <a href="https://www.patreon.com/matcarfer">❤ Patreon</a><br>
-  <a href="https://github.com/matcarfer/library">📚 Biblioteca de software</a>
+  <a href="https://github.com/matcarfer/biblioteca">📚 Biblioteca de software</a>
 </p>
 
 ---
